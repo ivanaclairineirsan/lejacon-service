@@ -1,0 +1,9 @@
+[SHARED_LIB]
+lib_mock_svm_load.so
+
+[HEADER]
+graal_isolate.h
+lib_mock_svm_load.h
+graal_isolate_dynamic.h
+lib_mock_svm_load_dynamic.h
+

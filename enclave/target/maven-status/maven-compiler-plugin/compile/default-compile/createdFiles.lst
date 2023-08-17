@@ -1,0 +1,4 @@
+META-INF/services/edu.lejacon.lejaconservice.common.APPDigestService
+META-INF/services/edu.lejacon.lejaconservice.common.HashService
+edu/lejacon/lejaconservice/enclave/APPDigest.class
+edu/lejacon/lejaconservice/enclave/HashServiceImpl.class

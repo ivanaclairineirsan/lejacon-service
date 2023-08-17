@@ -1,0 +1,9 @@
+[SHARED_LIB]
+lib_tee_sdk_svm_load.so
+
+[HEADER]
+lib_tee_sdk_svm_load.h
+graal_isolate.h
+lib_tee_sdk_svm_load_dynamic.h
+graal_isolate_dynamic.h
+
